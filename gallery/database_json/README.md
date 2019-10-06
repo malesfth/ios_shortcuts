@@ -1,0 +1,2 @@
+# Database with JSON
+With this shortcut it is possible to save json objects in the icloud directory of shortcuts (Shortcuts/Database). Of each new database/table a new json file will be created. For set or get a value it is pretty simple to forward an json object to the shortcut. A small sample shortcut (Test) is included.
